@@ -5,7 +5,7 @@
 Hey this is just a quick site which aims to provide the following:
 
 <ul>
-    <li>Display multiple AWS questions from Jon Boso's tutorial dojo exams</li>
+    <li>Display multiple AWS questions from Jon Bonso's tutorial dojo exams</li>
     <li>Responsive Application Desktop / Mobile</li>
     <li>Work Offline</li>
     <li>Display total scores</li>
